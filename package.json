@@ -1,0 +1,28 @@
+{
+    "name": "my-story-protocol-example-beta",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "create": "npx ts-node ./scripts/mintRegisterAgent.ts",
+        "createbulk": "npx ts-node ./scripts/mintRegisterAgentBulk.ts",
+        "buy": "npx ts-node ./scripts/purchaseAgentNFT.ts",
+        "buybulk": "npx ts-node ./scripts/purchaseAgentNFTBulk.ts",
+        "pay": "npx ts-node ./scripts/payAgentShare.ts",
+        "claim": "npx ts-node ./scripts/claimAgentRevenue.ts"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@story-protocol/core-sdk": "1.3.0-beta.3",
+        "dotenv": "^16.4.7",
+        "pinata-web3": "^0.5.4",
+        "ts-node": "^10.9.2",
+        "viem": "^2.8.12"
+    },
+    "devDependencies": {
+        "@types/node": "^20.11.17",
+        "prettier": "3.2.5"
+    }
+}
