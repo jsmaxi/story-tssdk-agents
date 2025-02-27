@@ -16,6 +16,18 @@ IPA IDS:
 
 "0x0F60A52Bd8Ee1682C2ff492982ef0488944E5E9C"
 
+onchain links (testnet):
+
+https://aeneid.explorer.story.foundation/ipa/0x9174d739d88c1bD5af5e39fd6D0cE81204B9097C
+
+https://aeneid.explorer.story.foundation/ipa/0x38058fc7DB15322fA690A36735d84493194d8935
+
+https://aeneid.explorer.story.foundation/ipa/0x8fF4a26BBaf488241019f39758B1d33eB46F3969
+
+https://aeneid.explorer.story.foundation/ipa/0x00FecB388Cf39F119e78447956cb9d820337c577
+
+https://aeneid.explorer.story.foundation/ipa/0x0F60A52Bd8Ee1682C2ff492982ef0488944E5E9C
+
 ---
 
 # Story Protocol TypeScript SDK Examples
