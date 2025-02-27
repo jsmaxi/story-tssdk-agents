@@ -28,6 +28,18 @@ https://aeneid.explorer.story.foundation/ipa/0x00FecB388Cf39F119e78447956cb9d820
 
 https://aeneid.explorer.story.foundation/ipa/0x0F60A52Bd8Ee1682C2ff492982ef0488944E5E9C
 
+AI Characters:
+
+"Elon Musk", "https://gateway.pinata.cloud/ipfs/bafkreiaazpyxitqf2bvoa3zz74tgh6s5fr6szzeofsftzbl3dnzs453rmq"
+
+"Albert Einstein", "https://gateway.pinata.cloud/ipfs/bafkreick7tljv7bm7nyiz6dhgpq2elc3wsm44e35jd2zuyasqrw7i6f6m4"
+
+"Mahatma Gandhi", "https://gateway.pinata.cloud/ipfs/bafkreigl7gsn3hewxn3sjhnredyklyrv4dfc74nkw6b2krgs4mytearswi"
+
+"Dalai Lama", "https://gateway.pinata.cloud/ipfs/bafkreicvottajszrx3skr4kvykeoj7tx5bstaghnh4syjaeqfve4wpvhne"
+
+"Genghis Khan", "https://gateway.pinata.cloud/ipfs/bafkreie7srew6aemcet6ykrzu6gc3chqe233g4obemm5rjvoelnarefy2m"
+
 ---
 
 # Story Protocol TypeScript SDK Examples
